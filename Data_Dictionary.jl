@@ -24,7 +24,7 @@ function DataDictionary(time_start,time_stop,time_step)
 	sat_1 = (4.67E-3/(4.67E-3 + 3.92E-4))*(1.49E-2/(1.49E-2 + 1.54E-4));
 	sat_2 = 1;
 	sat_3 = 2.55E-4/(1.55E-3 + 2.55E-4)	;
-	sat_4 = 4.49E-3/(1.6E-3 + 4.49E-4);
+	sat_4 = 4.49E-3/(1.6E-3 + 4.49E-3);
 	sat_5 = 2.55E-4/(4.4E-03 + 2.55E-4);
 
 	# Setup default flux bounds array -
