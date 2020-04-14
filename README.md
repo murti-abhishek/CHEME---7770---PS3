@@ -3,4 +3,4 @@ Problem Set #3
 
 To obtain the final flux distribution and the maximum rate of urea production, run the following command on the Julia terminal
 
-include("Solve.jl")
+julia > include("Solve.jl")
